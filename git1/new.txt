@@ -1,4 +1,1 @@
-<<<<<<< HEAD
 hello unicode!! !!
-=======
->>>>>>> parent of 3636af3 (v1)
